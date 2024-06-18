@@ -63,7 +63,7 @@ export default function Home() {
           </motion.p>
 
           <motion.button
-            className="flex text-sm font-medium items-center bg-white text-black rounded-lg px-4 py-2 hover:bg-white/80 transition duration-300"
+            className="flex text-sm font-medium items-center bg-white text-black rounded-lg px-4 py-2 hover:bg-white/80 transition duration-300 cursor-pointer"
             whileHover={{ scale: 1.05 }}
           >
             Get Started for free <FaArrowRight className="ml-2" size={13} />
@@ -218,7 +218,7 @@ export default function Home() {
             Start your journey now. No credit card required
           </p>
           <motion.button
-            className="flex text-sm font-medium items-center border border-white/10 rounded-lg px-4 py-2 mt-4 hover:bg-white/10 transition duration-300 group"
+            className="flex text-sm font-medium items-center border border-white/10 rounded-lg px-4 py-2 mt-4 hover:bg-white/10 transition duration-300 group cursor-pointer"
             whileHover={{ scale: 1.05 }}
           >
             Get Started{" "}
