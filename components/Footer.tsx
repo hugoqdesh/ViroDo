@@ -3,9 +3,9 @@ import React from "react";
 
 const Footer = () => {
   return (
-    <footer className="mt-56 px-8 py-8 text-white flex flex-col items-center md:flex-row md:justify-between">
+    <footer className="mt-56 px-8 py-8 text-white flex flex-col items-center md:flex-row md:justify-between max-w-6xl mx-auto">
       <div className="mb-8 md:mb-0 md:w-1/3">
-        <p className="text-2xl font-semibold">Strike Zone</p>
+        <p className="text-2xl font-semibold">Strkzone</p>
         <p className="text-gray-400">Martial arts for everyone</p>
       </div>
 
@@ -53,7 +53,7 @@ const Footer = () => {
       </div>
 
       <div className="mt-8 md:mt-0 text-gray-400 text-sm md:w-1/3 md:text-right">
-        <p>&copy; 2024 Strike Zone. All rights reserved.</p>
+        <p>&copy; 2024 Strkzone. All rights reserved.</p>
       </div>
     </footer>
   );
