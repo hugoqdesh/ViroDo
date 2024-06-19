@@ -5,17 +5,17 @@ import "./globals.css";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  title: "Strkzone - Martial arts for everyone",
+  title: "ViroDo - Martial arts for everyone",
   description:
     "We offer a new way to practice martial arts with confidence while staying safe and healthy.",
   openGraph: {
-    title: "Strkzone - Martial arts for everyone",
+    title: "ViroDo - Martial arts for everyone",
     description:
       "We offer a new way to practice martial arts with confidence while staying safe and healthy.",
     type: "website",
     locale: "en-US",
-    url: "strkzone.vercel.app",
-    siteName: "Strkzone",
+    url: "viroo.vercel.app",
+    siteName: "ViroDo",
   },
 };
 

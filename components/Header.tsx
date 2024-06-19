@@ -7,11 +7,11 @@ const Header = () => {
         <div className="flex items-center justify-between">
           <div>
             <h1 className="text-lg group cursor-pointer">
-              <span className="text-white group-hover:text-red-500 font-medium transition duration-300">
-                Strk
+              <span className="text-white group-hover:text-red-500 text-xl font-semibold transition duration-300">
+                Viro
               </span>
-              <span className="text-red-500 group-hover:text-white font-medium transition duration-300">
-                Zon
+              <span className="text-red-500 group-hover:text-white text-xl font-semibold transition duration-300">
+                Do
               </span>
             </h1>
           </div>

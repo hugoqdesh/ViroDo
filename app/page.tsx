@@ -44,16 +44,16 @@ export default function Home() {
               )}
             >
               <AnimatedShinyText className="inline-flex items-center justify-center px-4 py-1 transition ease-out hover:text-neutral-600 hover:duration-300 hover:dark:text-neutral-400">
-                <span>✨ Introducing Strkzone</span>
+                <span>✨ Introducing ViroDo</span>
                 <FaArrowRight className="ml-1 size-3 transition-transform duration-300 ease-in-out group-hover:translate-x-0.5" />
               </AnimatedShinyText>
             </div>
           </motion.div>
 
-          <motion.h1 className="text-5xl md:text-6xl 2xl:text-7xl font-medium py-6">
-            Strkzone
+          <motion.h1 className="text-5xl md:text-6xl 2xl:text-7xl font-medium py-6 text-white/90">
+            ViroDo
             <br />
-            Start fighting now.
+            Start fighting today.
           </motion.h1>
 
           <motion.p className="text-lg text-white/50 mb-8">
@@ -106,7 +106,8 @@ export default function Home() {
           <p className="text-xl font-bold">What we Offer</p>
           <h2 className="text-5xl font-bold">Everyone can practice.</h2>
           <p className="mt-6 text-xl leading-8 text-white/90 px-8">
-            Choose your <strong>martial art</strong> and get after your goals!
+            Choose your <strong>martial art</strong> and get after your goals!{" "}
+            <br />
             Practice and perfect your skills.
           </p>
         </div>
