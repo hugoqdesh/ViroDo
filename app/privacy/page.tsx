@@ -128,25 +128,7 @@ export default function Privacy() {
             reliance on lawful processing grounds other than consent. If you are
             a resident in the EEA or UK and you believe we are unlawfully
             processing your personal Information, you also have the right to
-            complain to your local data protection supervisory authority. You
-            can find their contact details here:{" "}
-            <Link
-              href="https://ec.europa.eugustice/data-protectun/bodies/authontlesfindex_en.htm"
-              target={"_blank"}
-              className="text-white underline"
-            >
-              https://ec.europa.eugustice/data-protectun/bodies/authontlesfindex_en.htm
-            </Link>
-            . If you are a resident in Switzerland, the contact details for the
-            data protection authorities are available here:{" "}
-            <Link
-              href="https://www.edoeb.admin.ch/edoebtenfhome.html"
-              target={"_blank"}
-              className="text-white underline"
-            >
-              https://www.edoeb.admin.ch/edoebtenfhome.html
-            </Link>
-            .
+            complain to your local data protection supervisory authority.
           </p>
 
           <h3 className="my-4 text-lg font-bold text-white"> Age Limit</h3>
