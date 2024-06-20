@@ -38,13 +38,13 @@ const Footer = () => {
             Legal
           </p>
           <Link
-            href="/"
+            href="/terms"
             className="text-gray-400 hover:text-gray-200 duration-200 text-sm"
           >
             Terms
           </Link>
           <Link
-            href="/"
+            href="/privacy"
             className="text-gray-400 hover:text-gray-200 duration-200 text-sm"
           >
             Privacy

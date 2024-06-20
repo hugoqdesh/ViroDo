@@ -15,7 +15,7 @@ export const metadata: Metadata = {
       "We offer a new way to practice martial arts with confidence while staying safe and healthy.",
     type: "website",
     locale: "en-US",
-    url: "viroo.vercel.app",
+    url: "virodo.vercel.app",
     siteName: "ViroDo",
   },
 };
